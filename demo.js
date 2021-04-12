@@ -1,4 +1,5 @@
 const puppeteer = require("puppeteer");
+const fs = require("fs");
 
 const hessen_url =
   "https://www.arztsuchehessen.de/arztsuche/arztsuche.php?page=suche&fachrichtung=65&haus_facharzt=egal&fachrichtung_psycho=--alle--&plz=--alle--&ort=--alle--&kreis=--alle--&strasse=--alle--&action%5BSucheStarten%5D=&name=--alle--&vorname=--alle--&geschlecht=egal&status=--alle--&genehmigung=--alle--&zusatzbezeichnung=--alle--&testungaufSARSCoV2=--alle--&fremdsprache=--alle--&sz_von_sel=&sz_bis_sel=&rpp=100";
@@ -19,7 +20,7 @@ const profileUrl =
 
   await profilePage.goto(profileUrl);
 
-  await profilePage.waitForTimeout(2000);
+  await profilePage.waitForTimeout(3000);
 
   const fetchDetails = await profilePage.evaluate(() => {
     const fields = document.querySelectorAll("div.Arzt_links");
@@ -35,52 +36,97 @@ const profileUrl =
     let expertise = "";
     let mainEmphasis = "";
     let otherFeatures = "";
-    let foreighLanguages = "";
+    let authorization = "";
+    let foreignLanguages = "";
     let consultationHour = "";
     console.log("eikhane ashe");
     for (i = 0; i < length; i++) {
-      field = fields[i].outerText;
+      field = fields[i].outerText.trim();
+      data.push(field);
       console.log(field);
       if (field === "Address:") continue;
       switch (field) {
-        case "Adresse:":
-          continue;
         case "Praxismerkmale :":
-          practicalFeatures = values[i].outerText.trim();
+          practicalFeatures = values[i].outerText.trim().split("\n");
+          continue;
         case "Krankenhaus:":
           hospital = values[i].outerText.trim();
+          continue;
         case "Telefon:":
           phone = values[i].outerText.trim();
+          continue;
         case "Telefax:":
           fax = values[i].outerText.trim();
+          continue;
         case "Web:":
           web = values[i].outerText.trim();
+          continue;
         case "Status:":
           status = values[i].outerText.trim();
+          continue;
         case "Fachgebiet:":
-          expertise = values[i].outerText.trim();
+          expertise = values[i].outerText.trim().split("\n");
+          continue;
         case "Schwerpunkt:":
           mainEmphasis = values[i].outerText.trim();
+          continue;
         case "Weitere Merkmale:":
-          otherFeatures = values[i].outerText.trim();
+          otherFeatures = values[i].outerText.trim().split("\n");
+          continue;
+        case "Ermächtigung:":
+          const tempStr = values[i].outerText.split("\n");
+          for (i = 0; i < tempStr.length; i++) {
+            if (tempStr[i] != "") {
+              authorization += tempStr[i] + "\n";
+            }
+          }
+          continue;
         case "Fremdsprachen:":
-          foreighLanguages = values[i].outerText.trim();
+          foreignLanguages = values[i].outerText.trim().split("\n");
+          continue;
         case "Sprechstunde:":
-          consultationHour = values[i].outerText.trim();
+          consultationHour = values[i].outerText.trim().split("\n");
+          continue;
       }
-      d = {
-        "Practical Features": practicalFeatures,
-        Phone: phone,
-        Fax: fax,
-        Web: web,
-        Status: status,
-        "Area of Expertise": expertise,
-      };
-      data.push(d);
     }
-    return data;
+
+    // if (expertise) {
+    //   const tempStr = expertise.split("\n");
+    //   expertise = "";
+    //   for (i = 0; i < tempStr.length; i++) {
+    //     expertise += tempStr[i] + "\n";
+    //   }
+    // }
+
+    const d = {
+      "Practical Features": practicalFeatures,
+      Hospital: hospital,
+      Phone: phone,
+      Fax: fax,
+      Web: web,
+      Status: status,
+      "Area of Expertise": expertise,
+      "Main Emphasis": mainEmphasis,
+      "Other Features": otherFeatures,
+      Authorization: authorization,
+      "Foreign Languages": foreignLanguages,
+      "Consultation Hour": consultationHour,
+    };
+    return d;
   });
 
-  console.log(fetchDetails);
+  const details = fetchDetails;
+
+  let authorization = "";
+  if (fetchDetails.Authorization) {
+    const temp = fetchDetails.Authorization;
+    for (i = 0; i < temp.length; i++) {
+      authorization += temp[i] + "\n";
+    }
+  }
+
+  // fs.writeFile("authorization.txt", details.Authorization, () => {});
+
+  console.log(details.Authorization);
   await browser.close();
 })();
