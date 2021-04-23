@@ -6,25 +6,42 @@ const url = "https://www.kvmv.de/ases-kvmv/ases.jsf";
 const riStr = "Rheumatologie";
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({
+    headless: false,
+    defaultViewport: null,
+  });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: "networkidle2" });
 
-  await page.waitForTimeout(10000);
+  await page.waitForTimeout(2000);
 
   const searchSel = "#asesInputForm\\:searchCriteria";
 
   await page.waitForSelector(searchSel);
 
-  await page.type(searchSel, "nabil");
+  await page.type(searchSel, riStr);
+  await page.waitForTimeout(3000);
 
-  console.log("typed");
+  const cardSel =
+    "div#arztlisteDataList_content div.ases-arzt-eintrag div.ases-arzt-zeile";
 
-  const html = await page.content();
+  const temp =
+    "body > div.main > div.container.ases-main-container > div.ases-header > div";
 
-  //   console.log(html);
+  const fetchHcpInfo = await page.evaluate(async (sel) => {
+    const cards = document.querySelectorAll(sel);
+    return cards;
+  }, cardSel);
 
-  //   fs.writeFileSync("dummy.html", html, () => {});
+  const results = fetchHcpInfo;
+
+  for (let i = 0; i < results.length; i++) {
+    console.log(results[i].outerText);
+  }
+
+  // const clickSel = "#arztlisteDataList\\:0\\:j_idt302";
+
+  // await page.click(clickSel);
 
   //   await browser.close();
 })();

@@ -5,6 +5,7 @@ const { stringify } = require("querystring");
 
 const url = "https://www.arztauskunft-niedersachsen.de/ases-kvn/";
 const riStr = "Rheumatologie";
+const gaStr = "Gastroenterologie";
 
 (async () => {
   // Create browser instance, a page and hit the url
@@ -15,7 +16,7 @@ const riStr = "Rheumatologie";
   // Put "Rheumatologie" in the search box
   const searchBox = "#input-form-id > div > div > div > span > input";
   await page.waitForSelector(searchBox);
-  await page.type(searchBox, riStr);
+  await page.type(searchBox, gaStr);
 
   // Hit the search button
   const searchBtn = "#input-form-id\\:search-button-id > span";
@@ -74,13 +75,12 @@ const riStr = "Rheumatologie";
   const nameWithTitleSel = "#labelArztName";
   const allSelector = "#j_idt64";
 
-  // fs.writeFile("test.json", "[", "utf8", () => {});
+  fs.writeFile("ga.json", "[", "utf8", () => {});
 
   // goto each link
-  for (let j = 100; j < links.length; j++) {
+  for (let j = 0; j < links.length; j++) {
     const link = links[j];
     await profilePage.goto(link);
-    await profilePage.waitForTimeout(40000);
     await profilePage.waitForSelector(nameWithTitleSel);
 
     const nameAndTitle = await profilePage.evaluate((sel) => {
@@ -106,6 +106,7 @@ const riStr = "Rheumatologie";
     const foreignLanguages = [];
     const additionalDesignation = [];
     const specialKnowledge = [];
+    const phone = [];
 
     for (; i < details.length; i++) {
       if (details[i].endsWith(":")) {
@@ -150,6 +151,14 @@ const riStr = "Rheumatologie";
               i++;
             }
             break;
+
+          case "Telefone:":
+            i++;
+            while (details[i] != "" && i < details.length) {
+              phone.push(details[i]);
+              i++;
+            }
+            break;
         }
       }
     }
@@ -177,16 +186,17 @@ const riStr = "Rheumatologie";
       "Foreign Languages": foreignLanguages,
       "Additional Designation": additionalDesignation,
       "Special Knowledge": specialKnowledge,
+      Telephone: phone.toString(),
       Workplaces: workplace,
     };
 
-    fs.appendFile("test.json", JSON.stringify(result) + ",", "utf8", () => {});
-    console.log("Done");
+    fs.appendFile("ga.json", JSON.stringify(result) + ",", "utf8", () => {});
+    console.log(`Done for j=${j + 1}`);
 
     // break;
   }
 
-  fs.appendFile("test.json", "]", "utf8", () => {});
+  fs.appendFile("ga.json", "]", "utf8", () => {});
 
   await browser.close();
 })();
