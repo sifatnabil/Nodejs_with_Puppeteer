@@ -20,28 +20,53 @@ const riStr = "Rheumatologie";
   await page.waitForSelector(searchSel);
 
   await page.type(searchSel, riStr);
-  await page.waitForTimeout(3000);
 
-  const cardSel =
-    "div#arztlisteDataList_content div.ases-arzt-eintrag div.ases-arzt-zeile";
+  const nameLinkSel = ".ases-arzt-name-fachgebiet-text a";
+  await page.waitForSelector(nameLinkSel);
 
-  const temp =
-    "body > div.main > div.container.ases-main-container > div.ases-header > div";
+  const hcpInfoSel = "#arztlisteDataList\\:0\\:detailsPanel > div";
 
-  const fetchHcpInfo = await page.evaluate(async (sel) => {
-    const cards = document.querySelectorAll(sel);
-    return cards;
-  }, cardSel);
+  await page.evaluate(() => {
+    const cards = document.querySelectorAll(
+      ".ases-arzt-name-fachgebiet-text a"
+    );
 
-  const results = fetchHcpInfo;
+    const details = [];
 
-  for (let i = 0; i < results.length; i++) {
-    console.log(results[i].outerText);
-  }
+    // cards[0].click();
+    console.log("here printed" + Date.now());
 
-  // const clickSel = "#arztlisteDataList\\:0\\:j_idt302";
+    // return new Promise((resolve, reject) => {
+    //   cards[0].click();
+    //   resolve("Done");
+    // });
 
-  // await page.click(clickSel);
+    cards.forEach(async (card) => {
+      // await card.waitForTimeout(5000);
+      card.click();
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+      console.log("Finished waiting: " + Date.now());
+      const info = document.querySelector(
+        "#arztlisteDataList\\:0\\:detailsPanel > div"
+      );
+      console.log(info.outerText);
+      const nameWithSpecialty = info.outerText.split(",");
+      const name = nameWithSpecialty[0].trim();
+      const specialty = nameWithSpecialty[1].trim();
+      details.push({
+        Name: name,
+        Specialty: specialty,
+        Info: info,
+      });
+      card.click();
+    });
+    // return details;
+  });
 
-  //   await browser.close();
+  console.log("time now: " + Date.now());
+
+  // console.log(fetchHcpDetails);
+  // console.log("Reached here already");
+
+  // await browser.close();
 })();

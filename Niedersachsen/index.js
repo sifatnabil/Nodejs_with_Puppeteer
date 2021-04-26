@@ -9,14 +9,14 @@ const gaStr = "Gastroenterologie";
 
 (async () => {
   // Create browser instance, a page and hit the url
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: "networkidle2" });
 
   // Put "Rheumatologie" in the search box
   const searchBox = "#input-form-id > div > div > div > span > input";
   await page.waitForSelector(searchBox);
-  await page.type(searchBox, gaStr);
+  await page.type(searchBox, riStr);
 
   // Hit the search button
   const searchBtn = "#input-form-id\\:search-button-id > span";
@@ -75,7 +75,7 @@ const gaStr = "Gastroenterologie";
   const nameWithTitleSel = "#labelArztName";
   const allSelector = "#j_idt64";
 
-  fs.writeFile("ga.json", "[", "utf8", () => {});
+  fs.writeFile("ri.json", "[", "utf8", () => {});
 
   // goto each link
   for (let j = 0; j < links.length; j++) {
@@ -190,13 +190,13 @@ const gaStr = "Gastroenterologie";
       Workplaces: workplace,
     };
 
-    fs.appendFile("ga.json", JSON.stringify(result) + ",", "utf8", () => {});
+    fs.appendFile("ri.json", JSON.stringify(result) + ",", "utf8", () => {});
     console.log(`Done for j=${j + 1}`);
 
     // break;
   }
 
-  fs.appendFile("ga.json", "]", "utf8", () => {});
+  fs.appendFile("ri.json", "]", "utf8", () => {});
 
   await browser.close();
 })();
