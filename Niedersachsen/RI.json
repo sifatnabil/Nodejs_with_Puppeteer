@@ -1,0 +1,3715 @@
+[
+  {
+    "Name": "Dr. med. Katrin Achilles-Mehr Bakhsh",
+    "Type of Doctor": "Hausärztin",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Joachimstr. 1 30159 Hannover",
+        "Phone": "(0511) 6001770",
+        "Fax": "(0511) 6001775",
+        "Website": "http://www.die-rheumatologen.de",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 16:30,Dienstag,08:30 - 12:00,14:00 - 16:30,Mittwoch,08:30 - 12:00,Donnerstag,08:30 - 12:00,14:00 - 17:00,Freitag,08:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Andreas Ackermann",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Piepenbrink 6 27283 Verden (Aller)",
+        "Phone": "(04231) 985840",
+        "Fax": "(04231) 9858420",
+        "Website": "",
+        "Office Hours": "Montag,07:30 - 13:30,15:30 - 18:00,Dienstag,07:30 - 13:30,15:30 - 18:00,Mittwoch,07:30 - 13:30,Donnerstag,07:30 - 13:30,15:30 - 18:00,Freitag,07:30 - 13:30,15:30 - 18:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Maryam Arvand-Müller",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Persisch / Farsi"],
+    "Additional Designation": ["Ernährungsmedizin / Innere Medizin"],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Lange Straße 35 27749 Delmenhorst",
+        "Phone": "(04221) 13007",
+        "Fax": "(04221) 1559676",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,Dienstag,08:00 - 13:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Jan Berg",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch", "Niederländisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Alte Rheiner Str. 9 49808 Lingen",
+        "Phone": "(0591) 8074150",
+        "Fax": "(0591) 8074522",
+        "Website": "",
+        "Office Hours": "Montag,07:00 - 14:00,Dienstag,09:00 - 16:00,Mittwoch,07:00 - 14:00,Donnerstag,11:00 - 18:00,Freitag,07:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Krankenhaus St. Elisabeth gGmbH Lindenstraße 3-7",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Jan Berg",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch", "Niederländisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Lindenstraße 10-12 49401 Damme",
+        "Phone": "(05491) 955234",
+        "Fax": "(05491) 955231",
+        "Website": "http://www.orthop-damme.de",
+        "Office Hours": "Montag,08:00 - 18:30,Dienstag,08:00 - 18:30,Mittwoch,08:00 - 13:45,Donnerstag,08:00 - 18:30,Freitag,08:00 - 15:15",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Bedingt barrierefreies WC"
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Krankenhaus St. Elisabeth gGmbH Lindenstraße 3-7",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Michael Bernateck",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Labordiagnostik-fachgebunden",
+      "Spezielle Schmerztherapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Chirotherapie",
+      "Schmerztherapie für chronisch Schmerzkranke"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Aegidientorplatz 2 b 30159 Hannover",
+        "Phone": "(0511) 850365-0",
+        "Fax": "(0511) 850365-10",
+        "Website": "http://www.schmerzmedizin-hannover.de",
+        "Office Hours": "Montag,08:00 - 12:00,15:00 - 18:00,Dienstag,08:00 - 12:00,15:00 - 18:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,15:00 - 18:00,Freitag,10:00 - 12:00,15:00 - 18:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Dieter Bettin",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Kinder-Orthopädie",
+      "Physikalische Therapie",
+      "Spezielle Schmerztherapie",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Mühlenstr. 122 26789 Leer (Ostfriesland)",
+        "Phone": "(0491) 4542595",
+        "Fax": "(0491) 4542596",
+        "Website": "",
+        "Office Hours": "Montag,08:30 - 12:30,Dienstag,08:30 - 12:30,Mittwoch,08:30 - 12:30,Donnerstag,08:30 - 12:30,nachm. n. Vereinb.,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Untersuchungsmöbel höhenverstellbar"
+      },
+      {
+        "Workplace Type": "Zweigpraxis",
+        "Address": "Birkenallee 30 26871 Papenburg",
+        "Phone": "(04961) 9421139",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "Donnerstag,15:00 - 17:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Dieter Bettin",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Kinder-Orthopädie",
+      "Physikalische Therapie",
+      "Spezielle Schmerztherapie",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Zweigpraxis",
+        "Address": "Birkenallee 30 26871 Papenburg",
+        "Phone": "(04961) 9421139",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "Donnerstag,15:00 - 17:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Mühlenstr. 122 26789 Leer (Ostfriesland)",
+        "Phone": "(0491) 4542595",
+        "Fax": "(0491) 4542596",
+        "Website": "",
+        "Office Hours": "Montag,08:30 - 12:30,Dienstag,08:30 - 12:30,Mittwoch,08:30 - 12:30,Donnerstag,08:30 - 12:30,nachm. n. Vereinb.,",
+        "Consultation Time": "",
+        "Accessibility": "Untersuchungsmöbel höhenverstellbar,Praxis weitgehend barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail"
+      }
+    ]
+  },
+  {
+    "Name": "Farzaneh Bigdeli-Wilshusen",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Persisch / Farsi"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Rüsterburg 3 30173 Hannover",
+        "Phone": "(0511) 89977920",
+        "Fax": "(0511) 89970062",
+        "Website": "http://www.rheuma-facharztpraxis.de",
+        "Office Hours": "Montag,08:00 - 12:00,14:30 - 17:30,Dienstag,08:00 - 12:00,14:30 - 17:30,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,14:30 - 18:00,Freitag,08:00 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Ursula Böckenhoff",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch", "Italienisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Große Straße 6-8 27356 Rotenburg (Wümme)",
+        "Phone": "(04261) 3055692",
+        "Fax": "(04261) 3055693",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:30,13:00 - 15:00,Dienstag,07:45 - 13:00,Mittwoch,07:45 - 13:00,Donnerstag,08:00 - 12:30,13:00 - 15:00,Freitag,07:45 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Wolfgang Böker",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Chirotherapie", "Physikalische Therapie"],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten",
+      "Chirotherapie",
+      "Videosprechstunde"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Ginsterweg 8 21335 Lüneburg",
+        "Phone": "(04131) 7569999",
+        "Fax": "(04131) 7569977",
+        "Website": "http://www.orthopaedie-lueneburg.de",
+        "Office Hours": "Montag,08:00 - 14:00,15:00 - 19:00,Dienstag,08:00 - 13:30,15:00 - 18:00,Mittwoch,08:00 - 15:00,Donnerstag,08:00 - 13:00,15:00 - 18:00,Freitag,08:00 - 14:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Orthoklinik Lüneburg GmbH Ginsterweg 5",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Wilfried Bott",
+    "Type of Doctor": "Hausarzt",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Balneologie und Medizinische Klimatologie",
+      "Naturheilverfahren"
+    ],
+    "Special Knowledge": [
+      "AOK - Bremen/Bremerhaven - Hausarztvertrag",
+      "AOK - Hausarztvertrag",
+      "Corona-Schnelltest",
+      "Hautkrebs-Screening",
+      "MRSA",
+      "SVLFG - Hausarztvertrag"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Wiesenstr. 22 29614 Soltau",
+        "Phone": "(05191) 14161",
+        "Fax": "(05191) 15605",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 11:00,Dienstag,08:00 - 12:00,15:00 - 18:00,Donnerstag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Professor Dr. med. Carsten Bramlage",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Nephrologie,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Ernährungsmedizin"],
+    "Special Knowledge": [
+      "BARMER - Pro Niere",
+      "Dialyse",
+      "MRSA",
+      "Pronova BKK - Pro Niere",
+      "TK - Pro Niere"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Amelogenstr. 16-17 49356 Diepholz",
+        "Phone": "(05441) 927221",
+        "Fax": "(05441) 927220",
+        "Website": "http://www.dialyse-diepholz.de",
+        "Office Hours": "Montag,08:00 - 12:00,15:00 - 18:00,Dienstag,08:00 - 12:00,Mittwoch,08:00 - 12:00,15:00 - 18:00,Donnerstag,08:00 - 12:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Matthias Braun",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Physikalische Therapie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Nordheimstraße 201 27476 Cuxhaven Sahlenburg",
+        "Phone": "(04721) 604300",
+        "Fax": "(04721) 604300",
+        "Website": "",
+        "Office Hours": "Montag,07:30 - 12:30,Dienstag,10:00 - 13:00,Mittwoch,07:30 - 12:30,Donnerstag,10:00 - 13:00,Freitag,07:30 - 12:30,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ursula Bruns",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Am Kurgarten 7 49186 Bad Iburg",
+        "Phone": "(05403) 7245880",
+        "Fax": "(05403) 7245889",
+        "Website": "",
+        "Office Hours": "Mittwoch,08:00 - 14:00,Donnerstag,09:00 - 14:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Möserstr. 46 49074 Osnabrück",
+        "Phone": "(0541) 358580",
+        "Fax": "(0511) 89977920",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,14:30 - 17:30,Dienstag,08:00 - 13:00,14:30 - 17:30,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,14:30 - 17:30,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ursula Bruns",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Möserstr. 46 49074 Osnabrück",
+        "Phone": "(0541) 358580",
+        "Fax": "(0511) 89977920",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,14:30 - 17:30,Dienstag,08:00 - 13:00,14:30 - 17:30,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,14:30 - 17:30,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Am Kurgarten 7 49186 Bad Iburg",
+        "Phone": "(05403) 7245880",
+        "Fax": "(05403) 7245889",
+        "Website": "",
+        "Office Hours": "Mittwoch,08:00 - 14:00,Donnerstag,09:00 - 14:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Anna Buck",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["Knochendichtemessung"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Hasestr. 14 49565 Bramsche",
+        "Phone": "(05461) 705310",
+        "Fax": "(05461) 705311",
+        "Website": "http://www.rheumapraxis-os.de",
+        "Office Hours": "Montag,08:00 - 13:00,Dienstag,08:00 - 13:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Adina-Claudia Butariu",
+    "Type of Doctor": "Hausärztin",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie,Allgemeinmedizin",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch", "Rumänisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "AOK - Hausarztvertrag",
+      "Audi BKK - Hausarztvertrag",
+      "BARMER - Hausarztvertrag",
+      "DAK Gesundheit - Hausarztvertrag",
+      "HKK- Hausarztvertrag",
+      "Hautkrebs-Screening",
+      "Pronova BKK - Hausarztvertrag",
+      "SVLFG - Hausarztvertrag"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Neue Str. 1E 38170 Schöppenstedt",
+        "Phone": "(05332) 968070",
+        "Fax": "(05332) 9680719",
+        "Website": "http://www.dr-brucker.de",
+        "Office Hours": "Montag,08:00 - 13:00,15:00 - 18:00,Dienstag,08:00 - 13:00,15:00 - 18:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,15:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Lucas Cardell",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Spezielle Orthopädische Chirurgie"
+    ],
+    "Special Knowledge": [
+      "Akupunktur",
+      "Ambulantes Operieren",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Landschaftstr. 3 30159 Hannover",
+        "Phone": "(0511) 306364",
+        "Fax": "(0511) 3632702",
+        "Website": "http://www.oug-hannover.de",
+        "Office Hours": "Montag,08:00 - 11:00,14:00 - 17:00,Dienstag,08:00 - 11:00,14:00 - 17:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 11:00,14:00 - 17:00,Freitag,08:00 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Kommunikation per Fax, SMS, E-Mail,Untersuchungsmöbel höhenverstellbar,Behindertenparkplatz"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ulrich Dammann",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Ambulantes Operieren", "Chirotherapie", "MRSA"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Krankenhausstraße 8-12 49661 Cloppenburg",
+        "Phone": "(04471) 160",
+        "Fax": "",
+        "Website": "http://www.cloppenburg-mvz.de",
+        "Office Hours": "Montag,08:00 - 12:00,15:00 - 17:00,Dienstag,08:00 - 12:00,15:00 - 17:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,15:00 - 17:00,Freitag,08:00 - 12:00,15:00 - 17:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Günter Dietz",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Physikalische Therapie und Balneologie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "",
+        "Address": "Spatenweg 19 26160 Bad Zwischenahn",
+        "Phone": "0441 691105",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Thomas Dinkler",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Piepenbrink 6 27283 Verden (Aller)",
+        "Phone": "(04231) 985840",
+        "Fax": "(04231) 9858420",
+        "Website": "",
+        "Office Hours": "Montag,07:30 - 13:30,15:30 - 18:00,Dienstag,07:30 - 13:30,15:30 - 18:00,Mittwoch,07:30 - 13:30,Donnerstag,07:30 - 13:30,15:30 - 18:00,Freitag,07:30 - 13:30,15:30 - 18:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Thomas Dinkler",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Friedrich-Lichtenauer-Allee 1b 21423 Winsen (Luhe)",
+        "Phone": "(04171) 71086",
+        "Fax": "(04171) 76522",
+        "Website": "http://www.rheumatologie-winsen.de",
+        "Office Hours": "Montag,08:00 - 12:30,14:00 - 17:30,Dienstag,08:00 - 12:30,14:00 - 17:30,Mittwoch,08:00 - 12:30,Donnerstag,08:00 - 12:30,14:00 - 17:30,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Sven Dubbert",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Sportmedizin"],
+    "Special Knowledge": ["Knochendichtemessung", "MRSA"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Kirchstr. 7 27239 Twistringen",
+        "Phone": "(04243) 9705770",
+        "Fax": "(04243) 9705771",
+        "Website": "http://www.rheumatologie-twistringen.de",
+        "Office Hours": "Montag,08:00 - 11:00,14:30 - 16:30,Dienstag,08:00 - 11:00,14:30 - 16:30,Mittwoch,08:00 - 11:00,Donnerstag,08:00 - 11:00,14:30 - 16:30,Freitag,08:00 - 11:00,Nach Vereinbarung Termine nur nach telefonischer Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Albert Dütting",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie,Chirurgie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Kirchstr. 61-67 26789 Leer (Ostfriesland)",
+        "Phone": "(0491) 8560100",
+        "Fax": "(0491) 8560309",
+        "Website": "",
+        "Office Hours": "und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Neue Str. 22 26826 Weener",
+        "Phone": "(04951) 301-5136",
+        "Fax": "(04951) 301-5134",
+        "Website": "",
+        "Office Hours": "Montag,10:00 - 12:00,Dienstag,09:00 - 16:00,Mittwoch,10:00 - 12:00,Donnerstag,09:00 - 16:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Albert Dütting",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie,Chirurgie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Neue Str. 22 26826 Weener",
+        "Phone": "(04951) 301-5136",
+        "Fax": "(04951) 301-5134",
+        "Website": "",
+        "Office Hours": "Montag,10:00 - 12:00,Dienstag,09:00 - 16:00,Mittwoch,10:00 - 12:00,Donnerstag,09:00 - 16:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Kirchstr. 61-67 26789 Leer (Ostfriesland)",
+        "Phone": "(0491) 8560100",
+        "Fax": "(0491) 8560309",
+        "Website": "",
+        "Office Hours": "und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Heinrich Ehrenbrink",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Griechisch"],
+    "Additional Designation": [
+      "Kinder-Orthopädie",
+      "Physikalische Therapie",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Ambulantes Operieren"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Am Finkenhügel 1-3 49076 Osnabrück",
+        "Phone": "(0541) 4056107",
+        "Fax": "(0541) 4051249",
+        "Website": "http://www.klinikum-osnabrueck.info",
+        "Office Hours": "Montag,08:30 - 12:00,Dienstag,08:30 - 12:00,Mittwoch,08:30 - 15:00,Donnerstag,15:00 - 19:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Martinistr. 1 49170 Hagen am Teutoburger Wald",
+        "Phone": "(05401) 832920",
+        "Fax": "(0541) 4055379",
+        "Website": "http://www.klinikum-os.de",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 15:30,Dienstag,08:30 - 12:00,14:00 - 15:30,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,14:00 - 15:30,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Untersuchungsmöbel höhenverstellbar,Praxis uneingeschränkt barrierefrei,Behindertenparkplatz,Parkplätze vorhanden,Bedingt barrierefreies WC"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Heinrich Ehrenbrink",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Griechisch"],
+    "Additional Designation": [
+      "Kinder-Orthopädie",
+      "Physikalische Therapie",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Ambulantes Operieren"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Martinistr. 1 49170 Hagen am Teutoburger Wald",
+        "Phone": "(05401) 832920",
+        "Fax": "(0541) 4055379",
+        "Website": "http://www.klinikum-os.de",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 15:30,Dienstag,08:30 - 12:00,14:00 - 15:30,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,14:00 - 15:30,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Bedingt barrierefreies WC,Untersuchungsmöbel höhenverstellbar,Behindertenparkplatz,Parkplätze vorhanden"
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Am Finkenhügel 1-3 49076 Osnabrück",
+        "Phone": "(0541) 4056107",
+        "Fax": "(0541) 4051249",
+        "Website": "http://www.klinikum-osnabrueck.info",
+        "Office Hours": "Montag,08:30 - 12:00,Dienstag,08:30 - 12:00,Mittwoch,08:30 - 15:00,Donnerstag,15:00 - 19:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Heinrich Johann Ehrenbrink",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Physikalische Therapie", "Sportmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "",
+        "Address": "Martinistr. 1 49170 Hagen am Teutoburger Wald",
+        "Phone": "05401 832920",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Christina Eisterhues",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Ernährungsmedizin / Innere Medizin"],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Hagenmarkt 18 38100 Braunschweig",
+        "Phone": "(0531) 6183420",
+        "Fax": "(0531) 61834222",
+        "Website": "http://www.dr-eisterhues.de",
+        "Office Hours": "Montag,08:00 - 13:00,14:00 - 17:00,Dienstag,08:00 - 13:00,14:00 - 17:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,15:00 - 19:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Raimund Ernst",
+    "Type of Doctor": "",
+    "Area of Expertise": "Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch", "Niederländisch"],
+    "Additional Designation": ["Chirotherapie", "Physikalische Therapie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Postdamm 5A 48527 Nordhorn",
+        "Phone": "(05921) 4964",
+        "Fax": "(05921) 77983",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:30,15:00 - 18:00,Dienstag,08:00 - 12:30,15:00 - 18:00,Mittwoch,08:00 - 12:30,Donnerstag,08:00 - 12:30,15:00 - 18:00,Freitag,08:00 - 12:30",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Diana Ernst",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch", "Spanisch"],
+    "Additional Designation": [
+      "Labordiagnostik-fachgebunden",
+      "Manuelle Medizin/Chirotherapie",
+      "Notfallmedizin"
+    ],
+    "Special Knowledge": ["Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Joachimstr. 1 30159 Hannover",
+        "Phone": "(0511) 6001770",
+        "Fax": "(0511) 6001775",
+        "Website": "http://www.die-rheumatologen.de",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 16:30,Dienstag,08:30 - 12:00,14:00 - 16:30,Mittwoch,08:30 - 12:00,Donnerstag,08:30 - 12:00,14:00 - 17:00,Freitag,08:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Georg Gauler",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Physikalische Therapie",
+      "Rettungsmedizin",
+      "Sozialmedizin"
+    ],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Osteoporose",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Möserstr. 46 49074 Osnabrück",
+        "Phone": "(0541) 358580",
+        "Fax": "(0511) 89977920",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,14:30 - 17:30,Dienstag,08:00 - 13:00,14:30 - 17:30,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,14:30 - 17:30,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Zweigpraxis",
+        "Address": "Am Kurgarten 7 49186 Bad Iburg",
+        "Phone": "(05403) 7245880",
+        "Fax": "(05403) 7245889",
+        "Website": "",
+        "Office Hours": "Mittwoch,08:00 - 14:00,Donnerstag,09:00 - 14:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Georg Gauler",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Physikalische Therapie",
+      "Rettungsmedizin",
+      "Sozialmedizin"
+    ],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Osteoporose",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Zweigpraxis",
+        "Address": "Am Kurgarten 7 49186 Bad Iburg",
+        "Phone": "(05403) 7245880",
+        "Fax": "(05403) 7245889",
+        "Website": "",
+        "Office Hours": "Mittwoch,08:00 - 14:00,Donnerstag,09:00 - 14:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Möserstr. 46 49074 Osnabrück",
+        "Phone": "(0541) 358580",
+        "Fax": "(0511) 89977920",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,14:30 - 17:30,Dienstag,08:00 - 13:00,14:30 - 17:30,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,14:30 - 17:30,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Bianca Gess",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bahnhofstr. 18 27305 Bruchhausen-Vilsen",
+        "Phone": "(04252) 2640",
+        "Fax": "(04252) 92072",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:00 - 15:00,Dienstag,12:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Führser Mühlweg 70 31582 Nienburg (Weser) Langendamm",
+        "Phone": "(05021) 910686",
+        "Fax": "(05021) 63848",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:30 - 17:00,Dienstag,08:30 - 16:00,Mittwoch,08:30 - 16:00,Donnerstag,08:30 - 18:00,Freitag,08:30 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Bianca Gess",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Führser Mühlweg 70 31582 Nienburg (Weser) Langendamm",
+        "Phone": "(05021) 910686",
+        "Fax": "(05021) 63848",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:30 - 17:00,Dienstag,08:30 - 16:00,Mittwoch,08:30 - 16:00,Donnerstag,08:30 - 18:00,Freitag,08:30 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bahnhofstr. 18 27305 Bruchhausen-Vilsen",
+        "Phone": "(04252) 2640",
+        "Fax": "(04252) 92072",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:00 - 15:00,Dienstag,12:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. (Univ.Kairo) Shada Ghoniem",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Arabisch", "Englisch", "Französisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Ziegelkamp 62 38104 Braunschweig Volkmarode",
+        "Phone": "(0531) 20999290",
+        "Fax": "(0531) 20999290",
+        "Website": "http://www.mvz-heh.de",
+        "Office Hours": "Montag,07:30 - 17:00,Dienstag,07:30 - 14:30,Mittwoch,07:30 - 14:30,Donnerstag,07:30 - 16:30,Freitag,07:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Detlev Gora-Mönks",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["MRSA"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Lippestr. 9-11 26548 Norderney",
+        "Phone": "(04932) 9191200",
+        "Fax": "(04932) 927566",
+        "Website": "http://www.kfh.de/MVZ/norderney",
+        "Office Hours": "Montag,10:00 - 12:00,Dienstag,10:00 - 12:00,Mittwoch,10:00 - 12:00,Donnerstag,10:00 - 13:00,Freitag,10:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Detlev Gora-Mönks",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "",
+        "Address": "Lippestr. 9-11 26548 Norderney",
+        "Phone": "04932 9191200",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "nur nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Priv.-Doz. Dr. med. Frank Gossé ",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Sportmedizin"],
+    "Special Knowledge": ["Knochendichtemessung"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Anna-von-Borries-Str. 1-7 30625 Hannover Kleefeld",
+        "Phone": "(0511) 5354-0",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Till Ole Hallmann-Böhm",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bohlweg 67-68 38100 Braunschweig",
+        "Phone": "(0531) 46727",
+        "Fax": "(0531) 124452",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,15:00 - 17:00,Dienstag,09:00 - 12:00,15:00 - 17:00,Mittwoch,09:00 - 12:00,Donnerstag,09:00 - 12:00,15:00 - 17:00,Freitag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ingo Hartig",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Langener Straße 66 27607 Geestland",
+        "Phone": "(04743) 8932336",
+        "Fax": "(04743) 8932004",
+        "Website": "",
+        "Office Hours": "Dienstag,08:00 - 15:00,Mittwoch,08:00 - 15:00,Donnerstag,08:00 - 13:00,Freitag,08:00 - 14:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ralf Hauptmann",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten",
+      "Chirotherapie",
+      "Corona-Schnelltest",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Podbielskistr. 32 30163 Hannover",
+        "Phone": "(0172) 5416906",
+        "Fax": "(0511) 661024",
+        "Website": "http://www.ortholist.de",
+        "Office Hours": "Montag,08:00 - 17:00,Dienstag,08:00 - 17:00,Mittwoch,08:00 - 16:00,Donnerstag,08:00 - 17:00,Freitag,08:00 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Bedingt barrierefreies WC"
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Sophien-Klinik GmbH Bischofsholer Damm 160",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Reinhard Hein",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Akupunktur", "Naturheilverfahren"],
+    "Special Knowledge": [
+      "Akupunktur",
+      "BKK - Versorgungsprogramm Osteoporose",
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bahnhofstr. 18 27305 Bruchhausen-Vilsen",
+        "Phone": "(04252) 2640",
+        "Fax": "(04252) 92072",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:00 - 15:00,Dienstag,12:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Führser Mühlweg 70 31582 Nienburg (Weser) Langendamm",
+        "Phone": "(05021) 910686",
+        "Fax": "(05021) 63848",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:30 - 17:00,Dienstag,08:30 - 16:00,Mittwoch,08:30 - 16:00,Donnerstag,08:30 - 18:00,Freitag,08:30 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Reinhard Hein",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Akupunktur", "Naturheilverfahren"],
+    "Special Knowledge": [
+      "Akupunktur",
+      "BKK - Versorgungsprogramm Osteoporose",
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Führser Mühlweg 70 31582 Nienburg (Weser) Langendamm",
+        "Phone": "(05021) 910686",
+        "Fax": "(05021) 63848",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:30 - 17:00,Dienstag,08:30 - 16:00,Mittwoch,08:30 - 16:00,Donnerstag,08:30 - 18:00,Freitag,08:30 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bahnhofstr. 18 27305 Bruchhausen-Vilsen",
+        "Phone": "(04252) 2640",
+        "Fax": "(04252) 92072",
+        "Website": "http://www.rheuma-praxis.de",
+        "Office Hours": "Montag,08:00 - 15:00,Dienstag,12:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Andreas Heine",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [
+      "Akupunktur",
+      "Chirotherapie",
+      "Kinder-Orthopädie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Akupunktur", "Ambulantes Operieren", "Arthroskopie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Hammerstr. 9 49740 Haselünne",
+        "Phone": "(05961) 955525",
+        "Fax": "(05961) 955522",
+        "Website": "http://www.orthopaedie-heine.de",
+        "Office Hours": "Montag,08:00 - 12:00,14:30 - 18:00,Dienstag,08:00 - 12:00,14:30 - 18:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 12:00,14:30 - 18:00,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Karl-Dieter Heller ",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Leipziger Str. 24 38124 Braunschweig Melverode",
+        "Phone": "(0531) 699-0",
+        "Fax": "(0531) 699-337",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Christina Heppner",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Endokrinologie und Diabetologie,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch", "Spanisch"],
+    "Additional Designation": [
+      "Genetische Beratung - fachgebunden in dem Gebiet Innere Medizin"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Weender Landstr. 59 37075 Göttingen",
+        "Phone": "(0551) 27071830",
+        "Fax": "(0551) 27071833",
+        "Website": "http://www.rheuma-goe.de",
+        "Office Hours": "Montag,08:00 - 13:00,14:00 - 16:00,Dienstag,08:00 - 13:00,14:00 - 16:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,14:00 - 16:00,und nach Vereinbarung Freitag n. V.,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Arvid Hilker",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Spezielle orthopädische Chirurgie"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Hammerstr. 9 49740 Haselünne",
+        "Phone": "(05961) 955525",
+        "Fax": "(05961) 955522",
+        "Website": "http://www.orthopaedie-heine.de",
+        "Office Hours": "Montag,08:00 - 12:00,14:30 - 18:00,Dienstag,08:00 - 12:00,14:30 - 18:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 12:00,14:30 - 18:00,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Guido Hoese",
+    "Type of Doctor": "",
+    "Area of Expertise": "Physik. u. rehab. Medizin,Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Physikalische Therapie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Am Markt 23 31655 Stadthagen",
+        "Phone": "(05721) 2744",
+        "Fax": "(05721) 2765",
+        "Website": "http://www.rheumapraxis.org",
+        "Office Hours": "Montag,09:00 - 12:00,13:00 - 17:00,Dienstag,09:00 - 12:00,13:00 - 17:00,Mittwoch,09:00 - 13:00,Donnerstag,09:00 - 12:00,13:00 - 17:00,Freitag,09:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Sebastian Hoppe",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Orthopädische Rheumatologie",
+      "Röntgendiagnostik-fachgebunden",
+      "Spezielle Orthopädische Chirurgie",
+      "Spezielle Schmerztherapie"
+    ],
+    "Special Knowledge": ["Ambulantes Operieren", "Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "An der Lutter 24, Haus 4 37075 Göttingen",
+        "Phone": "(0551) 50341490",
+        "Fax": "(0551) 50341487",
+        "Website": "http://www.gpsnds.de",
+        "Office Hours": "Montag,08:00 - 18:00,Dienstag,08:00 - 18:00,Mittwoch,08:00 - 18:00,Donnerstag,08:00 - 18:00,Freitag,08:00 - 13:00,Hr. Dr. Breitkreuz: Mi. u. Do. 08:00-13:00,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Johannes Hornig",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": ["Knochendichtemessung"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Möserstr. 46 49074 Osnabrück",
+        "Phone": "(0541) 358580",
+        "Fax": "(0511) 89977920",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,14:30 - 17:30,Dienstag,08:00 - 13:00,14:30 - 17:30,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,14:30 - 17:30,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Georg Hübner",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Physikalische Therapie"],
+    "Special Knowledge": ["Videosprechstunde"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Am Wall Süd 20 49808 Lingen (Ems)",
+        "Phone": "(0591) 90111250",
+        "Fax": "(0591) 90111239",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:00,13:00 - 18:00,Dienstag,08:00 - 12:00,13:00 - 18:00,Mittwoch,08:00 - 12:00,15:00 - 18:00,Donnerstag,08:00 - 12:00,13:00 - 18:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Klaus-Matthias Hummel",
+    "Type of Doctor": "Hausarzt",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)", "Nephrologie"],
+    "Foreign Languages": ["Englisch", "Französisch", "Spanisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "AOK - Bremen/Bremerhaven - Hausarztvertrag",
+      "AOK - Behandlungsprogramm Depression/Burn out",
+      "AOK - Hausarztvertrag",
+      "Diabetologische Schwerpunktpraxis",
+      "Diabetologische Schwerpunktpraxis mit Fußambulanz (AOK, BKK, LKK, IKK und Knappschaft)",
+      "Diabetologische Schwerpunktpraxis mit Fußambulanz (DAK, HKK, KKH)",
+      "Hautkrebs-Screening",
+      "MRSA",
+      "Palliativversorgung",
+      "SVLFG - Hausarztvertrag",
+      "Videosprechstunde"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Fuhrberger Landstr. 21 29225 Celle",
+        "Phone": "(05141) 43025",
+        "Fax": "(05141) 42060",
+        "Website": "",
+        "Office Hours": "Montag,07:30 - 11:00,14:00 - 18:00,Dienstag,07:30 - 11:00,14:00 - 18:00,Mittwoch,07:30 - 11:00,Donnerstag,07:30 - 11:00,14:00 - 18:00,Freitag,07:30 - 11:00,14:00 - 18:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Andreas Kefenbaum",
+    "Type of Doctor": "",
+    "Area of Expertise": "Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [
+      "Akupunktur",
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Akupunktur"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Glockenstr. 8 - 10 31224 Peine",
+        "Phone": "(05171) 40000",
+        "Fax": "(05171) 400066",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,15:00 - 18:00,Dienstag,08:00 - 15:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,15:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. (Univ. Cantabria) Alaa Khalid Abdelazim Hamoudeh",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Arabisch", "Englisch", "Spanisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Sauerbruchstr. 7 38440 Wolfsburg",
+        "Phone": "(05361) 801123",
+        "Fax": "(05361) 801124",
+        "Website": "http://www.mvz-wob.de",
+        "Office Hours": "Montag,10:00 - 12:00,14:00 - 16:00,Dienstag,10:00 - 12:00,14:00 - 16:00,Mittwoch,10:00 - 12:00,14:00 - 16:00,Donnerstag,10:00 - 12:00,14:00 - 16:00,Freitag,10:00 - 12:00,14:00 - 16:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Nicole Kippenbroek",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Naturheilverfahren", "Physikalische Therapie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Lister Meile 35 30161 Hannover",
+        "Phone": "(0511) 664422",
+        "Fax": "(0511) 664410",
+        "Website": "http://www.rheumapraxis.info",
+        "Office Hours": "Montag,09:00 - 12:00,14:30 - 18:00,Dienstag,09:00 - 12:00,14:30 - 18:00,Mittwoch,09:00 - 13:00,Donnerstag,09:00 - 12:00,14:30 - 18:00,Freitag,09:00 - 14:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Lars Köhler",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Laboruntersuchungen / Innere Medizin"],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Joachimstr. 1 30159 Hannover",
+        "Phone": "(0511) 6001770",
+        "Fax": "(0511) 6001775",
+        "Website": "http://www.die-rheumatologen.de",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 16:30,Dienstag,08:30 - 12:00,14:00 - 16:30,Mittwoch,08:30 - 12:00,Donnerstag,08:30 - 12:00,14:00 - 17:00,Freitag,08:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Djordje Lazovic ",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Kinder-Orthopädie",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Pius-Hospital",
+        "Address": "Georgstr. 12 26121 Oldenburg",
+        "Phone": "(0441) 2290",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 11:00,Dienstag,08:00 - 11:00,Mittwoch,08:00 - 11:00,Donnerstag,08:00 - 11:00,Freitag,08:00 - 11:00,nachm. n. Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Helga Gabriele Lehmann",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["Knochendichtemessung"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Von-Siebold-Str. 3 37075 Göttingen",
+        "Phone": "(0551) 6337460",
+        "Fax": "(0551) 63374646",
+        "Website": "http://www.endokrinologikum.de",
+        "Office Hours": "Montag,08:00 - 13:00,15:00 - 17:00,Dienstag,08:00 - 13:00,15:00 - 17:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,15:00 - 17:00,Freitag,08:00 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Michael Leidert",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Haagestr. 3 21335 Lüneburg",
+        "Phone": "(04131) 49291",
+        "Fax": "(04131) 45378",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,16:00 - 18:00,Dienstag,09:00 - 12:00,Mittwoch,09:00 - 12:00,Donnerstag,09:00 - 12:00,16:00 - 18:00,Freitag,09:00 - 12:00,Die. nachm. n. Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Bettina Linhart",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bahnhofsplatz 5 31134 Hildesheim",
+        "Phone": "(05121) 206980",
+        "Fax": "(05121) 2069834",
+        "Website": "http://www.rheuma-hi.de",
+        "Office Hours": "Montag,07:30 - 12:00,14:00 - 18:00,Dienstag,07:30 - 12:00,14:00 - 18:00,Mittwoch,07:30 - 12:00,Donnerstag,07:30 - 12:00,14:00 - 18:00,Freitag,07:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Angelika Lohfink",
+    "Type of Doctor": "Hausärztin",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Ernährungsmedizin",
+      "Homöopathie",
+      "Naturheilverfahren",
+      "Physikalische Therapie"
+    ],
+    "Special Knowledge": [
+      "Hautkrebs-Screening",
+      "IKK classic - Homöopathie",
+      "Securvita BKK - Homöopathie",
+      "Videosprechstunde"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Am Bahnhofsplatz 1/2 38667 Bad Harzburg",
+        "Phone": "(0151) 21335068",
+        "Fax": "(05322) 784505",
+        "Website": "http://www.praxis-lohfink.jimdo.com",
+        "Office Hours": "Montag,08:00 - 12:00,Dienstag,08:00 - 12:00,16:00 - 18:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,17:00 - 19:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "dr/Univ. Sarajevo Milazim Loxhaj",
+    "Type of Doctor": "",
+    "Area of Expertise": "Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Akupunktur",
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sozialmedizin",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Akupunktur",
+      "Ambulantes Operieren",
+      "Chirotherapie",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Chemnitzer Str. 78 38226 Salzgitter Lebenstedt",
+        "Phone": "(05341) 42057",
+        "Fax": "(05341) 175104",
+        "Website": "http://www.orthopaedum.de",
+        "Office Hours": "Montag,08:00 - 13:00,13:00 - 17:00,Dienstag,08:00 - 13:00,13:00 - 17:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,13:00 - 15:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Laurian-Codrut Magdea",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch", "Französisch", "Rumänisch", "Spanisch"],
+    "Additional Designation": ["Notfallmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Krankenhausweg 2 37627 Stadtoldendorf",
+        "Phone": "(05532) 9945080",
+        "Fax": "(05532) 99450815",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,14:30 - 18:30,Dienstag,09:00 - 12:00,14:30 - 16:30,Mittwoch,08:30 - 12:30,Donnerstag,09:00 - 12:00,14:30 - 18:30,Freitag,08:30 - 12:30,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Uwe Mall",
+    "Type of Doctor": "",
+    "Area of Expertise": "Orthopädie,FA Orthopädie und Unfallchirurgie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Akupunktur", "Chirotherapie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "",
+        "Address": "Kivinanstr. 26 27404 Zeven",
+        "Phone": "04281 9871270",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 15:00,Mo Mo. alle 14 Tage,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Anja Maltzahn",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Rheuma",
+      "Videosprechstunde"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Kurze Str. 2 37073 Göttingen",
+        "Phone": "(0551) 63415111",
+        "Fax": "(0551) 63415110",
+        "Website": "http://www.rheumatologie-goettingen.de",
+        "Office Hours": "Montag,08:00 - 14:00,Dienstag,08:00 - 14:00,Mittwoch,08:00 - 14:00,Donnerstag,13:00 - 19:00,Freitag,08:00 - 14:00,Nach Vereinbarung Termine nur nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Werner-J. Mayet",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Gastroenterologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Laboruntersuchungen / Innere Medizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Am Gut Sanderbusch 1 26452 Sande",
+        "Phone": "(04422) 507691",
+        "Fax": "(04422) 507691",
+        "Website": "",
+        "Office Hours": "Dienstag,08:00 - 15:00,Mittwoch,08:00 - 15:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Adelheid Melzer",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Russisch", "Tschechisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Kampstr. 32 38723 Seesen",
+        "Phone": "(05381) 3618",
+        "Fax": "(05381) 3608",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:00,15:00 - 17:00,Dienstag,08:00 - 12:00,15:00 - 17:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,15:00 - 17:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Erwin Meyer",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Physikalische Therapie", "Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Konrad-Adenauer-Str. 13 31737 Rinteln",
+        "Phone": "(05751) 5513",
+        "Fax": "(05751) 75246",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:00,15:00 - 18:00,Dienstag,08:00 - 12:00,Mittwoch,08:00 - 09:30,Donnerstag,08:00 - 12:00,16:00 - 19:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Dirk Meyer-Olson",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": [],
+    "Additional Designation": ["Infektiologie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Auf der Schanze 3 31812 Bad Pyrmont",
+        "Phone": "(05281) 6210-1022",
+        "Fax": "(05281) 6210-1600",
+        "Website": "",
+        "Office Hours": "Montag,09:30 - 12:00,14:00 - 16:30,Dienstag,09:00 - 12:00,Mittwoch,09:00 - 11:00,14:00 - 16:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Christoph Middendorf",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch", "Französisch", "Spanisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["Dialyse", "MRSA"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Engelgarten 3 49324 Melle",
+        "Phone": "(05422) 1046100",
+        "Fax": "(05422) 1046199",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,15:00 - 18:00,Dienstag,09:00 - 12:00,Mittwoch,09:00 - 12:00,15:00 - 18:00,Donnerstag,09:00 - 12:00,Freitag,09:00 - 12:00,15:00 - 18:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Wolfgang Mittweg",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Chirotherapie", "Physikalische Therapie"],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "BKK - Versorgungsprogramm Osteoporose"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Ritterstraße 11 26122 Oldenburg",
+        "Phone": "(0441) 3501990",
+        "Fax": "(0441) 35019999",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,14:00 - 17:00,Dienstag,09:00 - 12:00,14:00 - 17:00,Mittwoch,09:00 - 12:00,14:00 - 16:00,Donnerstag,09:00 - 12:00,14:00 - 17:00,Freitag,09:00 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Roland Müller",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Gastroenterologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Proktologie"],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Koloskopie - kurativ",
+      "Koloskopie - präventiv",
+      "Videosprechstunde"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bischofsstr. 30 49074 Osnabrück",
+        "Phone": "(0541) 338420",
+        "Fax": "(0541) 3384215",
+        "Website": "http://www.gastropraxis-os.de",
+        "Office Hours": "Montag,08:00 - 17:00,Dienstag,08:00 - 17:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Univ.-Prof. Dr. med. Gerhard Müller",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": [],
+    "Additional Designation": ["Laboruntersuchungen / Innere Medizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "",
+        "Address": "Bahnhofsallee 1 D 37081 Göttingen",
+        "Phone": "0551 82074275",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Yuriy Nikirenkov",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch", "Russisch", "Ukrainisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Hammer Str. 9 49740 Haselünne",
+        "Phone": "(05961) 5431",
+        "Fax": "(05961) 919701",
+        "Website": "http://www.niels-stensen-kliniken.de",
+        "Office Hours": "Montag,07:30 - 12:30,15:00 - 17:30,Dienstag,07:30 - 12:30,15:00 - 17:30,Mittwoch,07:30 - 12:30,Donnerstag,07:30 - 12:30,15:00 - 17:30,Freitag,07:30 - 12:30,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Sören Nothdorft",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Osterstr. 39 31848 Bad Münder am Deister",
+        "Phone": "(05042) 913040",
+        "Fax": "(05042) 913091",
+        "Website": "",
+        "Office Hours": "Montag,07:30 - 16:00,Dienstag,09:00 - 16:00,Mittwoch,07:30 - 14:30,Donnerstag,09:00 - 18:00,Freitag,08:30 - 13:30",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Manfred Oberreuther",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Kattowitzer Str. 191 38226 Salzgitter Lebenstedt",
+        "Phone": "(05341) 887437",
+        "Fax": "(05341) 175104",
+        "Website": "http://www.orthopaedum.de",
+        "Office Hours": "Montag,08:00 - 17:00,Dienstag,08:00 - 17:00,Mittwoch,08:00 - 17:00,Donnerstag,08:00 - 17:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Bedingt barrierefreies WC,Behindertenparkplatz,Parkplätze vorhanden"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Bernhard Ortloff",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Akupunktur"],
+    "Special Knowledge": [
+      "Akupunktur",
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Paulinenweg 1 48455 Bad Bentheim",
+        "Phone": "(05322) 98580",
+        "Fax": "(05922) 985830",
+        "Website": "http://www.orthopaedie-bad-bentheim.de",
+        "Office Hours": "Montag,08:00 - 13:00,14:00 - 18:00,Dienstag,08:00 - 13:00,14:00 - 18:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,15:00 - 18:00,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Behindertenparkplatz,Parkplätze vorhanden"
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Paulinenkrankenhaus Paulinenweg 1",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Simone Pflaum ",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Senator-Braun-Allee 33 31135 Hildesheim",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Carsten Possenriede",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [
+      "Manuelle Medizin/Chirotherapie",
+      "Orthopädische Rheumatologie"
+    ],
+    "Special Knowledge": ["Ambulantes Operieren", "Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Scheidestr. 21 30625 Hannover",
+        "Phone": "(0511) 537513",
+        "Fax": "(0511) 550466",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:00,15:00 - 17:00,Dienstag,08:00 - 12:00,15:00 - 17:00,Mittwoch,08:00 - 11:00,Donnerstag,08:00 - 12:00,16:00 - 19:00,Freitag,08:00 - 11:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Hans-Georg Pott",
+    "Type of Doctor": "",
+    "Area of Expertise": "Physik. u. rehab. Medizin,Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [
+      "Physikalische Therapie",
+      "Rettungsmedizin",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Rathenaustr. 13/14 30159 Hannover",
+        "Phone": "(0511) 301540",
+        "Fax": "(0511) 3015445",
+        "Website": "",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 16:30,Dienstag,08:30 - 12:00,14:00 - 16:30,Mittwoch,08:30 - 12:00,Donnerstag,08:30 - 12:00,14:00 - 16:30,Freitag,08:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Nils Putschky",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Laboruntersuchungen / Innere Medizin"],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Rathenaustr. 13/14 30159 Hannover",
+        "Phone": "(0511) 301540",
+        "Fax": "(0511) 3015445",
+        "Website": "",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 16:30,Dienstag,08:30 - 12:00,14:00 - 16:30,Mittwoch,08:30 - 12:00,Donnerstag,08:30 - 12:00,14:00 - 16:30,Freitag,08:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Matthias Reick",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Ambulantes Operieren", "Arthroskopie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bremer Str. 70 28832 Achim",
+        "Phone": "(04202) 84008",
+        "Fax": "(04202) 881398",
+        "Website": "http://www.chirurgie-orthopaedie-achim.de",
+        "Office Hours": "Montag,08:30 - 18:00,Dienstag,08:30 - 18:00,Mittwoch,08:30 - 16:00,Donnerstag,08:30 - 18:00,Freitag,08:30 - 16:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Untersuchungsmöbel höhenverstellbar,Behindertenparkplatz,Parkplätze vorhanden"
+      }
+    ]
+  },
+  {
+    "Name": "Elke Rewerts",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Kirchstr. 7-13 26603 Aurich",
+        "Phone": "(04941) 6985828",
+        "Fax": "(04941) 6985829",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,14:00 - 17:00,Dienstag,09:00 - 12:00,Mittwoch,09:00 - 12:00,Donnerstag,09:00 - 12:00,14:00 - 17:00,Freitag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Dagmar Richter",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Alexanderstraße 149 26121 Oldenburg",
+        "Phone": "(0441) 86077",
+        "Fax": "(0441) 83035",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,15:00 - 17:30,Dienstag,09:00 - 12:00,15:00 - 18:30,Mittwoch,09:00 - 13:00,Donnerstag,09:00 - 12:00,15:00 - 17:30,Freitag,09:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Karin Rockwitz",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": ["Physikalische Therapie", "Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Kösliner Str. 10 b 38642 Goslar Jürgenohl",
+        "Phone": "(05321) 686590",
+        "Fax": "(05321) 686591",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,15:00 - 17:00,Dienstag,09:00 - 12:00,15:00 - 17:00,Mittwoch,09:00 - 12:00,Donnerstag,09:00 - 12:00,15:00 - 17:00,Freitag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Christoph Rose",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Chirotherapie", "Sportmedizin"],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Waldweg 5 37073 Göttingen",
+        "Phone": "(0551) 50344500",
+        "Fax": "(0551) 50344525",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 18:00,Dienstag,08:00 - 18:00,Mittwoch,08:00 - 18:00,Donnerstag,08:00 - 18:00,Freitag,08:00 - 14:00",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Behindertenparkplatz"
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Krankenhaus Neu-Mariahilf Göttingen Humboldtallee 10/12",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Karen Rosenthal",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Rathenaustr. 13/14 30159 Hannover",
+        "Phone": "(0511) 301540",
+        "Fax": "(0511) 3015445",
+        "Website": "",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 16:30,Dienstag,08:30 - 12:00,14:00 - 16:30,Mittwoch,08:30 - 12:00,Donnerstag,08:30 - 12:00,14:00 - 16:30,Freitag,08:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Roman Schaffron",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Polnisch"],
+    "Additional Designation": ["Naturheilverfahren"],
+    "Special Knowledge": ["Dialyse", "MRSA"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Bolardusstr. 20 26721 Emden",
+        "Phone": "(04921) 94400",
+        "Fax": "(04921) 942091",
+        "Website": "http://www.davita.de",
+        "Office Hours": "Montag,08:00 - 12:00,Dienstag,08:00 - 12:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Juister Str. 9 26506 Norden",
+        "Phone": "(04931) 936190",
+        "Fax": "(04931) 936191",
+        "Website": "",
+        "Office Hours": "Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Roman Schaffron",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Polnisch"],
+    "Additional Designation": ["Naturheilverfahren"],
+    "Special Knowledge": ["Dialyse", "MRSA"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Juister Str. 9 26506 Norden",
+        "Phone": "(04931) 936190",
+        "Fax": "(04931) 936191",
+        "Website": "",
+        "Office Hours": "Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Bolardusstr. 20 26721 Emden",
+        "Phone": "(04921) 94400",
+        "Fax": "(04921) 942091",
+        "Website": "http://www.davita.de",
+        "Office Hours": "Montag,08:00 - 12:00,Dienstag,08:00 - 12:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Cord Schildmeyer",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Lister Meile 35 30161 Hannover",
+        "Phone": "(0511) 664422",
+        "Fax": "(0511) 664410",
+        "Website": "http://www.rheumapraxis.info",
+        "Office Hours": "Montag,09:00 - 12:00,14:30 - 18:00,Dienstag,09:00 - 12:00,14:30 - 18:00,Mittwoch,09:00 - 13:00,Donnerstag,09:00 - 12:00,14:30 - 18:00,Freitag,09:00 - 14:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Priv.-Doz. Dr. med. Thomas Schleiffer",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Endokrinologie",
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Luisenstr. 28 26382 Wilhelmshaven",
+        "Phone": "(04421) 77930222",
+        "Fax": "(04421) 77930299",
+        "Website": "",
+        "Office Hours": "Dienstag,10:00 - 12:00,13:00 - 17:00,Donnerstag,10:00 - 12:30,13:00 - 17:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ulrich Schlippert",
+    "Type of Doctor": "",
+    "Area of Expertise": "Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Videosprechstunde"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Steinweg 26 38100 Braunschweig",
+        "Phone": "(0531) 43911",
+        "Fax": "(0531) 124687",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 11:00,15:00 - 17:00,Dienstag,09:00 - 11:00,15:00 - 17:00,Mittwoch,09:00 - 11:00,14:00 - 19:00,Donnerstag,09:00 - 11:00,15:00 - 18:00,Freitag,09:00 - 11:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Katja Schmitt-Bieda ",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Salzdahlumer Str. 90 38126 Braunschweig",
+        "Phone": "(0531) 595-0",
+        "Fax": "(0531) 595-2544",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Guido Schmitz-Elvenich",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Chirotherapie"],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Segelckestraße 40 27472 Cuxhaven",
+        "Phone": "(04721) 6653665",
+        "Fax": "(04721) 6653663",
+        "Website": "http://www.oc-cuxhaven.de",
+        "Office Hours": "Montag,08:00 - 12:00,16:00 - 18:00,Dienstag,08:00 - 12:00,15:00 - 17:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 12:00,15:00 - 17:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Untersuchungsmöbel höhenverstellbar"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ulrich Schoo",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Chirotherapie", "Naturheilverfahren"],
+    "Special Knowledge": ["Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Am Wall Süd 20 49808 Lingen (Ems)",
+        "Phone": "(0591) 90111250",
+        "Fax": "(0591) 90111239",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:00,13:00 - 18:00,Dienstag,08:00 - 12:00,13:00 - 18:00,Mittwoch,08:00 - 12:00,15:00 - 18:00,Donnerstag,08:00 - 12:00,13:00 - 18:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Axel Schröder",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bohlweg 67-68 38100 Braunschweig",
+        "Phone": "(0531) 46727",
+        "Fax": "(0531) 124452",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,15:00 - 17:00,Dienstag,09:00 - 12:00,15:00 - 17:00,Mittwoch,09:00 - 12:00,Donnerstag,09:00 - 12:00,15:00 - 17:00,Freitag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Thomas Schuart",
+    "Type of Doctor": "",
+    "Area of Expertise": "Physik. u. rehab. Medizin,Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Physikalische Therapie"],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Friedrich-Lichtenauer-Allee 1b 21423 Winsen (Luhe)",
+        "Phone": "(04171) 71086",
+        "Fax": "(04171) 76522",
+        "Website": "http://www.rheumatologie-winsen.de",
+        "Office Hours": "Montag,08:00 - 12:30,14:00 - 17:30,Dienstag,08:00 - 12:30,14:00 - 17:30,Mittwoch,08:00 - 12:30,Donnerstag,08:00 - 12:30,14:00 - 17:30,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Wolfgang Schultz",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Röntgendiagnostik-fachgebunden",
+      "Spezielle Schmerztherapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Sturmbäume 3 37154 Northeim",
+        "Phone": "(05551) 4052",
+        "Fax": "(05551) 977779",
+        "Website": "http://www.orthopaedicum.pro",
+        "Office Hours": "Montag,08:00 - 12:00,14:00 - 18:00,Dienstag,08:00 - 12:00,14:00 - 18:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 12:00,14:00 - 18:00,Freitag,08:00 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Christoph Schulze Pellengahr Freiherr von Freusberg-Steinhorst",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Physikalische Therapie und Balneologie",
+      "Röntgendiagnostik-fachgebunden",
+      "Spezielle Orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Maulbeerallee 4 31812 Bad Pyrmont",
+        "Phone": "(05281) 99-1441",
+        "Fax": "(05281) 991026",
+        "Website": "http://www.mvz-bathildis.de/radiologie",
+        "Office Hours": "",
+        "Consultation Time": "Donnerstag,10:15 - 10:45,15:00 - 15:30",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. André-Matthias Sempf",
+    "Type of Doctor": "Hausarzt",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": [],
+    "Additional Designation": ["Diabetologie"],
+    "Special Knowledge": [
+      "AOK - Bremen/Bremerhaven - Hausarztvertrag",
+      "AOK - Hausarztvertrag",
+      "BARMER - Hausarztvertrag",
+      "Hautkrebs-Screening",
+      "KKH - Hausarztvertrag",
+      "Pronova BKK - Hausarztvertrag",
+      "SVLFG - Hausarztvertrag"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Alter Bremer Weg 4 29223 Celle",
+        "Phone": "(05141) 32001",
+        "Fax": "(05141) 32003",
+        "Website": "http://www.gemeinschaftspraxis-neuenhaeusen.de",
+        "Office Hours": "Montag,08:00 - 12:00,16:00 - 18:00,Dienstag,08:00 - 12:00,16:00 - 18:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,16:00 - 18:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Jörg Sensse",
+    "Type of Doctor": "",
+    "Area of Expertise": "Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": [],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Naturheilverfahren",
+      "Physikalische Therapie"
+    ],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung",
+      "MRSA"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Hamburger Str. 144 38518 Gifhorn",
+        "Phone": "(05371) 990587",
+        "Fax": "(05371) 990592",
+        "Website": "http://www.sensse.net",
+        "Office Hours": "Montag,08:00 - 12:00,Dienstag,08:00 - 12:00,14:00 - 17:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,14:00 - 17:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Untersuchungsmöbel höhenverstellbar,Behindertenparkplatz,Parkplätze vorhanden"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Frank Joachim Siegler",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Akupunktur",
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Röntgendiagnostik-fachgebunden",
+      "Sportmedizin",
+      "Verkehrsmed. Begutachtung / Orthopädie"
+    ],
+    "Special Knowledge": [
+      "Akupunktur",
+      "Ambulantes Operieren",
+      "BKK - Versorgungsprogramm Osteoporose",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Lange Str. 42 27232 Sulingen",
+        "Phone": "(04271) 9545173",
+        "Fax": "(04271) 9545174",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,15:00 - 19:00,Dienstag,08:00 - 13:00,15:00 - 19:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,15:00 - 19:00,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Barrierefreies WC,Orientierungshilfe für Sehbehinderte,Kommunikation per Fax, SMS, E-Mail,Behindertenparkplatz"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Iris Sievert",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Lister Meile 35 30161 Hannover",
+        "Phone": "(0511) 664422",
+        "Fax": "(0511) 664410",
+        "Website": "http://www.rheumapraxis.info",
+        "Office Hours": "Montag,09:00 - 12:00,14:30 - 18:00,Dienstag,09:00 - 12:00,14:30 - 18:00,Mittwoch,09:00 - 13:00,Donnerstag,09:00 - 12:00,14:30 - 18:00,Freitag,09:00 - 14:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Rainer Sprekeler",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Klinische Geriatrie im Rahmen der Inneren Medizin",
+      "Rehabilitationswesen"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Kivinanstraße 26 27404 Zeven",
+        "Phone": "(04281) 956612",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Harald Stabel",
+    "Type of Doctor": "",
+    "Area of Expertise": "Orthopädie,Physik. u. rehab. Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Sozialmedizin",
+      "Spezielle Schmerztherapie"
+    ],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "",
+        "Address": "Am Kurgarten 7 49186 Bad Iburg",
+        "Phone": "05403 402400",
+        "Fax": "05403 402470",
+        "Website": "http://www.doerenberg-klinik.de",
+        "Office Hours": "Montag,13:00 - 16:00,Dienstag,10:00 - 14:00,Mittwoch,10:00 - 14:00,Donnerstag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Carsten Stille",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Lister Meile 35 30161 Hannover",
+        "Phone": "(0511) 664422",
+        "Fax": "(0511) 664410",
+        "Website": "http://www.rheumapraxis.info",
+        "Office Hours": "Montag,09:00 - 12:00,14:30 - 18:00,Dienstag,09:00 - 12:00,14:30 - 18:00,Mittwoch,09:00 - 13:00,Donnerstag,09:00 - 12:00,14:30 - 18:00,Freitag,09:00 - 14:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Volker Thiem",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Von-Siebold-Str. 3 37075 Göttingen",
+        "Phone": "(0551) 6337460",
+        "Fax": "(0551) 63374646",
+        "Website": "http://www.endokrinologikum.de",
+        "Office Hours": "Montag,08:00 - 13:00,15:00 - 17:00,Dienstag,08:00 - 13:00,15:00 - 17:00,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,15:00 - 17:00,Freitag,08:00 - 13:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ulrich Thomann",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Physikalische Therapie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Franziskusstraße 6 49393 Lohne (Oldenburg)",
+        "Phone": "(04442) 81310",
+        "Fax": "(04442) 81319",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:00,13:30 - 16:30,Dienstag,08:00 - 12:00,13:30 - 16:30,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 12:00,13:30 - 16:30,Freitag,08:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Helmut Trübenbach",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Chirotherapie", "Physikalische Therapie"],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Joachimstr. 3 30159 Hannover",
+        "Phone": "(0511) 51526688",
+        "Fax": "(0511) 51526689",
+        "Website": "http://www.orthopaedie-an-der-oper.de",
+        "Office Hours": "Montag,08:00 - 18:00,Dienstag,08:00 - 18:00,Mittwoch,08:00 - 18:00,Donnerstag,08:00 - 18:00,Freitag,08:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Untersuchungsmöbel höhenverstellbar,Parkplätze vorhanden"
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Sophien-Klinik GmbH Bischofsholer Damm 160",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "apl. Prof. Dr. med. Dietmar Urbach",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Rettungsmedizin",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Gustav-Dobberkau-Str. 5 29378 Wittingen",
+        "Phone": "(05831) 22250",
+        "Fax": "(05831) 22251",
+        "Website": "http://www.mvz-campus-gifhorn.de",
+        "Office Hours": "Montag,08:00 - 13:00,Dienstag,13:00 - 16:00,Mittwoch,12:00 - 16:00,Donnerstag,12:00 - 15:00,Freitag,09:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Campus 6 38518 Gifhorn",
+        "Phone": "(05371) 871561",
+        "Fax": "(05371) 873938",
+        "Website": "http://www.mvz-niedersachsen.de",
+        "Office Hours": "Montag,08:00 - 16:00,Dienstag,08:00 - 16:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 16:00,Freitag,08:00 - 16:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Knickwall 4 38518 Gifhorn",
+        "Phone": "(05371) 815300",
+        "Fax": "(05371) 815329",
+        "Website": "http://www.mvz-campus-gifhorn.de",
+        "Office Hours": "Montag,08:00 - 15:00,Dienstag,13:00 - 18:00,Mittwoch,08:00 - 15:00,Donnerstag,12:00 - 16:00,Freitag,08:00 - 16:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Parkplätze vorhanden,Praxis weitgehend barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail"
+      }
+    ]
+  },
+  {
+    "Name": "apl. Prof. Dr. med. Dietmar Urbach",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Rettungsmedizin",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Knickwall 4 38518 Gifhorn",
+        "Phone": "(05371) 815300",
+        "Fax": "(05371) 815329",
+        "Website": "http://www.mvz-campus-gifhorn.de",
+        "Office Hours": "Montag,08:00 - 15:00,Dienstag,13:00 - 18:00,Mittwoch,08:00 - 15:00,Donnerstag,12:00 - 16:00,Freitag,08:00 - 16:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Parkplätze vorhanden"
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Campus 6 38518 Gifhorn",
+        "Phone": "(05371) 871561",
+        "Fax": "(05371) 873938",
+        "Website": "http://www.mvz-niedersachsen.de",
+        "Office Hours": "Montag,08:00 - 16:00,Dienstag,08:00 - 16:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 16:00,Freitag,08:00 - 16:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Gustav-Dobberkau-Str. 5 29378 Wittingen",
+        "Phone": "(05831) 22250",
+        "Fax": "(05831) 22251",
+        "Website": "http://www.mvz-campus-gifhorn.de",
+        "Office Hours": "Montag,08:00 - 13:00,Dienstag,13:00 - 16:00,Mittwoch,12:00 - 16:00,Donnerstag,12:00 - 15:00,Freitag,09:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "apl. Prof. Dr. med. Dietmar Urbach",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Rettungsmedizin",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": ["Chirotherapie"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Campus 6 38518 Gifhorn",
+        "Phone": "(05371) 871561",
+        "Fax": "(05371) 873938",
+        "Website": "http://www.mvz-niedersachsen.de",
+        "Office Hours": "Montag,08:00 - 16:00,Dienstag,08:00 - 16:00,Mittwoch,08:00 - 12:00,Donnerstag,08:00 - 16:00,Freitag,08:00 - 16:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Gustav-Dobberkau-Str. 5 29378 Wittingen",
+        "Phone": "(05831) 22250",
+        "Fax": "(05831) 22251",
+        "Website": "http://www.mvz-campus-gifhorn.de",
+        "Office Hours": "Montag,08:00 - 13:00,Dienstag,13:00 - 16:00,Mittwoch,12:00 - 16:00,Donnerstag,12:00 - 15:00,Freitag,09:00 - 13:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Knickwall 4 38518 Gifhorn",
+        "Phone": "(05371) 815300",
+        "Fax": "(05371) 815329",
+        "Website": "http://www.mvz-campus-gifhorn.de",
+        "Office Hours": "Montag,08:00 - 15:00,Dienstag,13:00 - 18:00,Mittwoch,08:00 - 15:00,Donnerstag,12:00 - 16:00,Freitag,08:00 - 16:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Parkplätze vorhanden,Praxis weitgehend barrierefrei,Bedingt barrierefreies WC,Kommunikation per Fax, SMS, E-Mail"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Heinrich van den Boom",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Spezielle orthopädische Chirurgie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Akupunktur",
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Rundestr. 10 30161 Hannover",
+        "Phone": "(0511) 312039",
+        "Fax": "(0511) 3883496",
+        "Website": "http://www.orthopädie-am-raschplatz.de",
+        "Office Hours": "Montag,08:00 - 18:00,Dienstag,08:00 - 18:00,Mittwoch,08:00 - 14:00,Donnerstag,08:00 - 18:00,Freitag,08:00 - 14:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": "Praxis weitgehend barrierefrei,Barrierefreies WC,Kommunikation per Fax, SMS, E-Mail,Untersuchungsmöbel höhenverstellbar"
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "DRK-Krankenhaus Clementinenhaus Lützerodestr. 1",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ryszard van Rhee",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Orthopädie und Unfallchirurgie,Orthopädie",
+    "Main Emphasis": ["Rheumatologie (SP zu Orthopädie)"],
+    "Foreign Languages": ["Englisch", "Polnisch"],
+    "Additional Designation": [
+      "Chirotherapie",
+      "Physikalische Therapie",
+      "Spezielle Schmerztherapie",
+      "Sportmedizin"
+    ],
+    "Special Knowledge": [
+      "Ambulantes Operieren",
+      "Arthroskopie",
+      "Belegärzte - verfügen über Krankenhausbetten",
+      "Chirotherapie"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Theaterstr. 15 30159 Hannover",
+        "Phone": "(0511) 2200140",
+        "Fax": "(0511) 3631012",
+        "Website": "http://www.orthopaedie-an-der-oper.de",
+        "Office Hours": "Montag,07:30 - 18:00,Dienstag,07:30 - 18:00,Mittwoch,07:30 - 15:30,Donnerstag,09:00 - 12:00,14:00 - 18:00,Freitag,07:30 - 15:30,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Belegarzttätigkeit",
+        "Address": "Sophien-Klinik GmbH Bischofsholer Damm 160",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Udo Vehlies",
+    "Type of Doctor": "Hausarzt",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Hauptstr. 19 c 21258 Heidenau",
+        "Phone": "(04182) 4646",
+        "Fax": "(04182) 401233",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 12:00,16:00 - 18:00,Dienstag,08:00 - 12:00,Donnerstag,08:00 - 12:00,16:00 - 18:00,Freitag,08:00 - 12:00,und nach Vereinbarung Am Mittwoch und am Dienstag Nachmittag nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Markus Voglau",
+    "Type of Doctor": "",
+    "Area of Expertise": "FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": [],
+    "Additional Designation": ["Notfallmedizin"],
+    "Special Knowledge": ["Videosprechstunde"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Praxis",
+        "Address": "Straßburger Straße 2 a 26123 Oldenburg (Oldenburg)",
+        "Phone": "(0441) 98482070",
+        "Fax": "(0441) 98482080",
+        "Website": "",
+        "Office Hours": "Montag,08:30 - 12:00,14:30 - 17:00,Dienstag,08:30 - 12:00,14:30 - 17:00,Mittwoch,08:30 - 12:30,Donnerstag,08:30 - 12:00,14:30 - 17:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Ulrich von Hinüber",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Osteoporose",
+      "BKK - Versorgungsprogramm Rheuma",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Bahnhofsplatz 5 31134 Hildesheim",
+        "Phone": "(05121) 206980",
+        "Fax": "(05121) 2069834",
+        "Website": "http://www.rheuma-hi.de",
+        "Office Hours": "Montag,07:30 - 12:00,14:00 - 18:00,Dienstag,07:30 - 12:00,14:00 - 18:00,Mittwoch,07:30 - 12:00,Donnerstag,07:30 - 12:00,14:00 - 18:00,Freitag,07:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Annette Doris Wagner ",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Nephrologie",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Laboruntersuchungen / Innere Medizin"],
+    "Special Knowledge": ["Dialyse", "Videosprechstunde"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Med. Hochschule Hannover",
+        "Address": "Carl-Neuberg-Str. 1 30625 Hannover Gr.- Buchholz",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Linda Wanke ",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": [],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Krankenhaus Buchholz",
+        "Address": "Steinbecker Str. 44 21244 Buchholz in der Nordheide",
+        "Phone": "(04181) 130",
+        "Fax": "(04181) 131055",
+        "Website": "http://www.krankenhaus-buchholz.de",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Michael Weber",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BARMER - Pro Niere",
+      "Dialyse",
+      "MRSA",
+      "Pronova BKK - Pro Niere",
+      "TK - Pro Niere"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Waldweg 7 37073 Göttingen",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087664",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Montag,09:00 - 12:00,13:30 - 16:00,Dienstag,09:00 - 12:00,13:30 - 16:00,Mittwoch,09:00 - 12:00,13:30 - 16:00,Donnerstag,09:00 - 12:00,13:30 - 16:00,Freitag,09:00 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Steffensweg 99 37120 Bovenden",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087648",
+        "Website": "",
+        "Office Hours": "Montag,16:00 - 18:00,Mittwoch,16:00 - 18:00,Freitag,16:00 - 18:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Bahnhofstraße 2 37115 Duderstadt",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Parkplätze vorhanden,Barrierefreies WC"
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Albert-Schweitzer-Str. 1 37154 Northeim",
+        "Phone": "(05551) 5890770",
+        "Fax": "(05551) 5890778",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Dienstag,09:00 - 12:00,Donnerstag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Michael Weber",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BARMER - Pro Niere",
+      "Dialyse",
+      "MRSA",
+      "Pronova BKK - Pro Niere",
+      "TK - Pro Niere"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Albert-Schweitzer-Str. 1 37154 Northeim",
+        "Phone": "(05551) 5890770",
+        "Fax": "(05551) 5890778",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Dienstag,09:00 - 12:00,Donnerstag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Waldweg 7 37073 Göttingen",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087664",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Montag,09:00 - 12:00,13:30 - 16:00,Dienstag,09:00 - 12:00,13:30 - 16:00,Mittwoch,09:00 - 12:00,13:30 - 16:00,Donnerstag,09:00 - 12:00,13:30 - 16:00,Freitag,09:00 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Steffensweg 99 37120 Bovenden",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087648",
+        "Website": "",
+        "Office Hours": "Montag,16:00 - 18:00,Mittwoch,16:00 - 18:00,Freitag,16:00 - 18:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Bahnhofstraße 2 37115 Duderstadt",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Parkplätze vorhanden,Barrierefreies WC"
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Michael Weber",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BARMER - Pro Niere",
+      "Dialyse",
+      "MRSA",
+      "Pronova BKK - Pro Niere",
+      "TK - Pro Niere"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Steffensweg 99 37120 Bovenden",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087648",
+        "Website": "",
+        "Office Hours": "Montag,16:00 - 18:00,Mittwoch,16:00 - 18:00,Freitag,16:00 - 18:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Waldweg 7 37073 Göttingen",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087664",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Montag,09:00 - 12:00,13:30 - 16:00,Dienstag,09:00 - 12:00,13:30 - 16:00,Mittwoch,09:00 - 12:00,13:30 - 16:00,Donnerstag,09:00 - 12:00,13:30 - 16:00,Freitag,09:00 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Bahnhofstraße 2 37115 Duderstadt",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Parkplätze vorhanden,Barrierefreies WC"
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Albert-Schweitzer-Str. 1 37154 Northeim",
+        "Phone": "(05551) 5890770",
+        "Fax": "(05551) 5890778",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Dienstag,09:00 - 12:00,Donnerstag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Michael Weber",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": [
+      "Nephrologie",
+      "Rheumatologie (SP zu Innere und Allgemeinmedizin)"
+    ],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BARMER - Pro Niere",
+      "Dialyse",
+      "MRSA",
+      "Pronova BKK - Pro Niere",
+      "TK - Pro Niere"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Bahnhofstraße 2 37115 Duderstadt",
+        "Phone": "",
+        "Fax": "",
+        "Website": "",
+        "Office Hours": "",
+        "Consultation Time": "",
+        "Accessibility": "Praxis uneingeschränkt barrierefrei,Barrierefreies WC,Parkplätze vorhanden"
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Waldweg 7 37073 Göttingen",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087664",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Montag,09:00 - 12:00,13:30 - 16:00,Dienstag,09:00 - 12:00,13:30 - 16:00,Mittwoch,09:00 - 12:00,13:30 - 16:00,Donnerstag,09:00 - 12:00,13:30 - 16:00,Freitag,09:00 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Steffensweg 99 37120 Bovenden",
+        "Phone": "(0551) 508760",
+        "Fax": "(0551) 5087648",
+        "Website": "",
+        "Office Hours": "Montag,16:00 - 18:00,Mittwoch,16:00 - 18:00,Freitag,16:00 - 18:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      },
+      {
+        "Workplace Type": "Medizinisches Versorgungszentrum",
+        "Address": "Albert-Schweitzer-Str. 1 37154 Northeim",
+        "Phone": "(05551) 5890770",
+        "Fax": "(05551) 5890778",
+        "Website": "http://www.n-r-z.de",
+        "Office Hours": "Dienstag,09:00 - 12:00,Donnerstag,09:00 - 12:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Markus-Erich Wegmann",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": [],
+    "Additional Designation": ["Rettungsmedizin"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Am Delft 32 26721 Emden",
+        "Phone": "(04921) 979995",
+        "Fax": "(04921) 979996",
+        "Website": "",
+        "Office Hours": "Montag,09:00 - 12:00,15:00 - 17:00,Dienstag,09:00 - 12:00,15:00 - 17:00,Mittwoch,09:00 - 14:00,Donnerstag,09:00 - 12:00,15:00 - 17:00,Freitag,09:00 - 14:00,und nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Heike-Franziska Weidemann",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": [],
+    "Special Knowledge": ["BKK - Versorgungsprogramm Rheuma"],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Joachimstr. 1 30159 Hannover",
+        "Phone": "(0511) 6001770",
+        "Fax": "(0511) 6001775",
+        "Website": "http://www.die-rheumatologen.de",
+        "Office Hours": "Montag,08:30 - 12:00,14:00 - 16:30,Dienstag,08:30 - 12:00,14:00 - 16:30,Mittwoch,08:30 - 12:00,Donnerstag,08:30 - 12:00,14:00 - 17:00,Freitag,08:30 - 12:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Dr. med. Patrick Wurth",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin,FA Innere Medizin und (SP) Rheumatologie",
+    "Main Emphasis": [],
+    "Foreign Languages": ["Englisch"],
+    "Additional Designation": [],
+    "Special Knowledge": [
+      "BKK - Versorgungsprogramm Osteoporose",
+      "Knochendichtemessung"
+    ],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "Gemeinschaftspraxis",
+        "Address": "Möserstr. 46 49074 Osnabrück",
+        "Phone": "(0541) 358580",
+        "Fax": "(0511) 89977920",
+        "Website": "",
+        "Office Hours": "Montag,08:00 - 13:00,14:30 - 17:30,Dienstag,08:00 - 13:00,14:30 - 17:30,Mittwoch,08:00 - 13:00,Donnerstag,08:00 - 13:00,14:30 - 17:30,Freitag,08:00 - 13:00,Nach Vereinbarung,",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  },
+  {
+    "Name": "Prof. Dr. med. Henning Zeidler",
+    "Type of Doctor": "",
+    "Area of Expertise": "Innere Medizin",
+    "Main Emphasis": ["Rheumatologie (SP zu Innere und Allgemeinmedizin)"],
+    "Foreign Languages": ["Englisch", "Französisch"],
+    "Additional Designation": ["Physikalische Therapie"],
+    "Special Knowledge": [],
+    "Telephone": "",
+    "Workplaces": [
+      {
+        "Workplace Type": "",
+        "Address": "Rathenaustr. 13/ 14 30159 Hannover",
+        "Phone": "0511 30154-0",
+        "Fax": "0511 30154-45",
+        "Website": "",
+        "Office Hours": "Montag,14:00 - 17:00,Dienstag,08:30 - 12:00,14:00 - 17:00",
+        "Consultation Time": "",
+        "Accessibility": ""
+      }
+    ]
+  }
+]

@@ -1,7 +1,6 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-// const url = "https://www.kvmv.de/service/arztsuche/";
 const url = "https://www.kvmv.de/ases-kvmv/ases.jsf";
 const riStr = "Rheumatologie";
 
@@ -24,49 +23,70 @@ const riStr = "Rheumatologie";
   const nameLinkSel = ".ases-arzt-name-fachgebiet-text a";
   await page.waitForSelector(nameLinkSel);
 
-  const hcpInfoSel = "#arztlisteDataList\\:0\\:detailsPanel > div";
+  const nextPageBtn =
+    "#arztlisteDataList_paginator_bottom > span.ui-paginator-next.ui-state-default.ui-corner-all";
 
-  await page.evaluate(() => {
-    const cards = document.querySelectorAll(
-      ".ases-arzt-name-fachgebiet-text a"
-    );
-
-    const details = [];
-
-    // cards[0].click();
-    console.log("here printed" + Date.now());
-
-    // return new Promise((resolve, reject) => {
-    //   cards[0].click();
-    //   resolve("Done");
-    // });
-
-    cards.forEach(async (card) => {
-      // await card.waitForTimeout(5000);
-      card.click();
-      await new Promise((resolve) => setTimeout(resolve, 1000));
-      console.log("Finished waiting: " + Date.now());
-      const info = document.querySelector(
-        "#arztlisteDataList\\:0\\:detailsPanel > div"
+  while (true) {
+    await page.waitForTimeout(10000);
+    const fetchHcpInfo = await page.evaluate(async () => {
+      const cards = document.querySelectorAll(
+        ".ases-arzt-name-fachgebiet-text a"
       );
-      console.log(info.outerText);
-      const nameWithSpecialty = info.outerText.split(",");
-      const name = nameWithSpecialty[0].trim();
-      const specialty = nameWithSpecialty[1].trim();
-      details.push({
-        Name: name,
-        Specialty: specialty,
-        Info: info,
+
+      const details = [];
+
+      cards.forEach(async (card, ind) => {
+        card.click();
+        await new Promise((resolve) => setTimeout(resolve, 30000));
+        const info = document.querySelector(
+          `#arztlisteDataList\\:${ind}\\:detailsPanel > div`
+        );
+        console.log(`Name is: ${card.outerText}`);
+        // console.log(`Info is: ${info.outerText}`);
+        const nameWithSpecialty = card.outerText.trim().split("\n");
+        const infoArray = info.outerText.split("\n");
+        const infoLength = infoArray.length;
+        let foreignLanguages = "",
+          additionalDesignation = "",
+          additionalContracts = "";
+        for (let i = 0; i < infoLength; i++) {
+          if (infoArray[i].startsWith("Fremdsprachen:")) {
+            foreignLanguages = infoArray[i].slice(15, infoArray[i].length - 1);
+          } else if (infoArray[i].startsWith("Zusatzbezeichnungen:")) {
+            additionalDesignation = infoArray[i].slice(
+              21,
+              infoArray[i].length - 1
+            );
+          } else if (infoArray[i].startsWith("Zusatzverträge:")) {
+            additionalContracts = infoArray[i].slice(
+              16,
+              infoArray[i].length - 1
+            );
+          }
+        }
+
+        details.push({
+          Name: nameWithSpecialty,
+          "Foreign Languages": foreignLanguages,
+          "Additional Designation": additionalDesignation,
+          "Additional Contracts": additionalContracts,
+        });
       });
-      card.click();
+      await new Promise((resolve) => setTimeout(resolve, 30000));
+      return details;
     });
-    // return details;
-  });
+    console.log(fetchHcpInfo);
 
-  console.log("time now: " + Date.now());
+    const getTabIndex = await page.evaluate((sel) => {
+      const tabIndex = document.querySelector(sel).tabIndex;
+      return tabIndex;
+    }, nextPageBtn);
 
-  // console.log(fetchHcpDetails);
-  // console.log("Reached here already");
-
-  // await browser.close();
+    if (getTabIndex != -1) {
+      await page.click(nextPageBtn);
+      console.log("Going to the next page");
+    } else {
+      break;
+    }
+  }
 })();
